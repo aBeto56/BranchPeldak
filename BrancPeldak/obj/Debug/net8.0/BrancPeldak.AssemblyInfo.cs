@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrancPeldak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9eae110adf5934c5b18f1b76e9f7fe533573408")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac4c12798f15964e26111661d20a09d589d1daa1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrancPeldak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrancPeldak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
