@@ -1,0 +1,6 @@
+@BrancPeldak_HostAddress = http://localhost:5257
+
+GET {{BrancPeldak_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
